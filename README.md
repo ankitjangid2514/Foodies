@@ -1,2 +1,2 @@
 
-<a style="text-decoreation:none;color:red;" href="https://manishmksaini.github.io/foodies/">Preview</a>
+<a style="text-decoreation:none;color:red;" href="https://ankitjangid2514.github.io/Foodies/">Preview</a>
